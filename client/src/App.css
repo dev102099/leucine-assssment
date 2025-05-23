@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: 'Chillax';
+  src: url('/fonts/Chillax-Variable.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.custom-font {
+  font-family: 'Chillax', sans-serif;
+}
